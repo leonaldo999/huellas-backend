@@ -1,0 +1,7 @@
+huellas-backend/
+├── models/
+│   └── Product.js
+├── routes/
+│   └── products.js
+├── .env
+├── server.js
